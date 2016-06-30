@@ -1,0 +1,40 @@
+@font-face{
+	font-family:RobotoRegular;
+	font-style:normal;
+	font-weight:400;
+	src:url(../fonts/RobotoRegular/RobotoRegular.eot?#iefix) format("embedded-opentype"),
+	url(../fonts/RobotoRegular/RobotoRegular.woff) format("woff"),
+	url(../fonts/RobotoRegular/RobotoRegular.ttf) format("truetype")
+	}
+@font-face{
+	font-family:PalatinoLinotype;
+	font-style:normal;
+	font-weight:400;
+	src:url(../fonts/PalatinoLinotype/pala.eot?#iefix) format("embedded-opentype"),
+	url(../fonts/PalatinoLinotype/pala.woff) format("woff"),
+	url(../fonts/PalatinoLinotype/pala.ttf) format("truetype")
+	}
+@font-face{
+	font-family:PalatinoLinotypeb;
+	font-style:normal;
+	font-weight:400;
+	src:url(../fonts/PalatinoLinotype/palab.eot?#iefix) format("embedded-opentype"),
+	url(../fonts/PalatinoLinotype/palab.woff) format("woff"),
+	url(../fonts/PalatinoLinotype/palab.ttf) format("truetype")
+	}
+@font-face{
+	font-family:PalatinoLinotypebi;
+	font-style:normal;
+	font-weight:400;
+	src:url(../fonts/PalatinoLinotype/palabi.eot?#iefix) format("embedded-opentype"),
+	url(../fonts/PalatinoLinotype/palabi.woff) format("woff"),
+	url(../fonts/PalatinoLinotype/palabi.ttf) format("truetype")
+	}
+@font-face{
+	font-family:PalatinoLinotypei;
+	font-style:normal;
+	font-weight:400;
+	src:url(../fonts/PalatinoLinotype/palai.eot?#iefix) format("embedded-opentype"),
+	url(../fonts/PalatinoLinotype/palai.woff) format("woff"),
+	url(../fonts/PalatinoLinotype/palai.ttf) format("truetype")
+	}
